@@ -1,0 +1,1 @@
+# Lineer-Regresyon-Basit-rnek
